@@ -88,8 +88,8 @@ Abstract Factory uses multiple factory methods to create a suite of related obje
 Factory Design Patterns are crucial for writing decoupled code. They provide flexibility and extensibility to the object creation process, making the system easier to maintain and extend.
 
 For more detailed examples and explanations, please refer to the following resources:
-- Factory Design Pattern in C# with Examples
-- Factory Method Design Pattern in C#
-- Object Creation in C# with the Factory Pattern
-- Factory Method Design Pattern - DotNetTricks
-- C# Design Patterns - Factory Method - Code Maze
+- [Factory Design Pattern in C# with Examples](https://dotnettutorials.net/lesson/factory-design-pattern-csharp/)
+- [Factory Method Design Pattern in C#](https://dotnettutorials.net/lesson/factory-method-design-pattern-csharp/)
+- [Object Creation in C# with the Factory Pattern](https://www.c-sharpcorner.com/article/object-creation-in-c-sharp-with-the-factory-pattern/)
+- [Factory Method Design Pattern - DotNetTricks](https://www.scholarhat.com/tutorial/designpatterns/factory-method-design-pattern)
+- [C# Design Patterns - Factory Method - Code Maze](https://code-maze.com/factory-method/)
